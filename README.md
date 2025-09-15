@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Privacy Policy — Unpolished</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #222; padding: 24px; max-width: 900px; margin: 0 auto; }
-    h1, h2, h3 { color: #1b4332; }
-    a { color: #1d6fa5; }
-    code { background: #f4f4f4; padding: 2px 4px; border-radius: 4px; }
-    .meta { color: #666; font-size: 0.95em; }
-  </style>
+
 </head>
 <body>
   <h1>Privacy Policy</h1>
